@@ -1,0 +1,6 @@
+/.idea
+/input_images_20250925_062358_018761
+*.pyc
+/mapanything.egg-info
+/assets
+/.gradio
